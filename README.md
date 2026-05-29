@@ -1,4 +1,7 @@
 # 💫 About Me
+
+<div align="center">
+
 I like to do stuff and ride my motorcycle.
 
 🎲 Fun fact: I am actually goated.
@@ -13,6 +16,6 @@ I like to do stuff and ride my motorcycle.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nairinn&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif" alt="Excited GIF" />
+<img src="https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif" alt="Excited GIF" />
+
 </div>
