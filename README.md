@@ -1,6 +1,6 @@
-# 💫 About Me
-
 <div align="center">
+
+# 💫 About Me
 
 I like to do stuff and ride my motorcycle.
 
