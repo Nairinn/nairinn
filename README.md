@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1400&color=E8A0BF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+naing;cs+%40+asu+%C2%B7+payments+%40+amex;probably+on+my+motorcycle+rn" alt="intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1400&color=E8A0BF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+naing+lynn;cs+%40+asu+%C2%B7+payments+%40+amex;" alt="intro" />
 
 <img src="https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif" width="240" alt="gif" />
 
