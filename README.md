@@ -4,7 +4,7 @@
 
 <img src="https://media1.tenor.com/m/2iJcSJ5EnFYAAAAC/binbougami-ga-momiji.gif" width="240" alt="gif" />
 
-<sub>i like making things free.</sub>
+<sub>i like making things free</sub>
 
 <sub><a href="https://linkedin.com/in/nlkv">linkedin</a> · <a href="https://github.com/Nairinn">github</a></sub>
 
